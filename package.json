@@ -1,0 +1,27 @@
+{
+  "name": "waren-discord-bot",
+  "version": "1.0.0-alpha.1",
+  "description": "A general purpose Discord bot for modern technology community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarenGonzaga/waren-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "technology",
+    "community",
+    "general",
+    "purpose"
+  ],
+  "author": "Waren Gonzaga",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/WarenGonzaga/waren-discord-bot/issues"
+  },
+  "homepage": "https://github.com/WarenGonzaga/waren-discord-bot#readme"
+}
