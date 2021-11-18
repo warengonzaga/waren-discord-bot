@@ -1,2 +1,5 @@
 # deepcode
 .dccache
+
+# nodejs
+node_modules
