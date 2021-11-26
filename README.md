@@ -4,6 +4,10 @@
 
 📢 Nominate ([@WarenGonzaga](https://warengonzaga.com)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to open source.
 
+---
+
+A new standard general purpose Discord bot for any tech communities. 🤖🚀
+
 ## ⚡ Features
 
 - Welcome Message
