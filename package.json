@@ -4,7 +4,7 @@
   "description": "A general purpose Discord bot for modern technology community.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.ts"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/WarenGonzaga/waren-discord-bot#readme",
   "devDependencies": {
+    "nodemon": "^2.0.15",
     "typescript": "^4.5.2"
   },
   "dependencies": {
